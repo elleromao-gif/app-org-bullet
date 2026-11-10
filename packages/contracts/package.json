@@ -1,0 +1,14 @@
+{
+  "name": "@compass/contracts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "prettier --check .",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'No contract tests yet'"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

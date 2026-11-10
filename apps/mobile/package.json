@@ -1,0 +1,11 @@
+{
+  "name": "@compass/mobile",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "expo start",
+    "lint": "echo 'Configure ESLint after Expo bootstrap'",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'Add Jest or Vitest after Expo bootstrap'"
+  }
+}

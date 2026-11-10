@@ -1,0 +1,12 @@
+{
+  "name": "@compass/extension",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "lint": "echo 'Configure ESLint after WXT bootstrap'",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'Add extension tests after WXT bootstrap'"
+  }
+}
